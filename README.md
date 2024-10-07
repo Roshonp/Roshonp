@@ -1,12 +1,12 @@
 # Hello, I'm Roshon Pittman
 <a href="https://linkedin.com/in/ro-shon-pittman-273892296/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+I am excited to learn and grow as a cybersecurity analyst
 
 I am a dedicated cybersecurity analyst with a passion for safeguarding digital environments against evolving threats
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
+I want to learn as much technical skills as humanly possible so that I can become a great asset to my future company
 
 I'm excited to enter the feild of cybersecurity 
 
