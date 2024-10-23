@@ -38,7 +38,7 @@ Electrical Experience,Microsoft,SQL,DNS,Customer service,Active Directory,Inform
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+https://github.com/your-username/cybersecurity-certifications
 <div>
 
 </div>
