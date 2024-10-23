@@ -38,7 +38,7 @@ Electrical Experience,Microsoft,SQL,DNS,Customer service,Active Directory,Inform
 </div>
 
 ## Certifications
-https://github.com/your-username/cybersecurity-certifications
+
 <div>
 
 </div>
