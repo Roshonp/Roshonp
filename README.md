@@ -21,7 +21,7 @@
 - 🔍 Exploring **penetration testing & ethical hacking**  
 
 ## 📫 Connect With Me  
-- 🔗 [LinkedIn](#) | [Twitter](#) | [Instagram](#)  
+- 🔗  https://www.linkedin.com/in/ro-shon-pittman-273892296/
 - 📩 Email: Roshon.pittman@gmail.com  
 
 ## 🛠️ Tech & Tools  
