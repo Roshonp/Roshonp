@@ -1,47 +1,39 @@
-# Hello, I'm Roshon Pittman
-<a href="https://linkedin.com/in/ro-shon-pittman-273892296/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# 👋 Hey, I'm [Ro'shon Pittman]  
 
-I am excited to learn and grow as a cybersecurity analyst
+## 🚀 About Me  
+- 🔒 Aspiring Cybersecurity architect | Tech Enthusiast  
+- 💻 Working with **Splunk, Wireshark, Linux in Active Directory**  
+- 🏋️‍♂️ Passionate about fitness, wellness, and tech integration  
+- 🛠️ Built an **Airport Bag Drop (ABD) machine** from the ground up  
+- 🔗 Exploring **no-code and coding** tech deleopment  
 
-I am a dedicated cybersecurity analyst with a passion for safeguarding digital environments against evolving threats
+## 📚 Certifications & Studies  
+- 🎓 **Bachelor's in Cybersecurity & Information Assurance (In Progress)**
+- 🛡️ **Google IT Support Professional Certificate**  
+- 🔐 **Google Cybersecurity Certificate**  
+- 🛡️ **CompTIA A+ (Studying)**  
+- 💾 Experience with **SHA-256, CIA triad, hashing, and security protocols**  
+- 🖥️ Learning **full-stack development** self taught
 
-## Objective
-I want to learn as much technical skills as humanly possible so that I can become a great asset to my future company
+## 🌱 What I'm Working On  
+- 🎥 Growing my **social and collaboration skills**
+- 📲 Developing **coding and programming skills**
+- 🔍 Exploring **penetration testing & ethical hacking**  
 
-I'm excited to enter the feild of cybersecurity 
+## 📫 Connect With Me  
+- 🔗 [LinkedIn](#) | [Twitter](#) | [Instagram](#)  
+- 📩 Email: Roshon.pittman@gmail.com  
 
-## Skills
-Electrical Experience,Microsoft,SQL,DNS,Customer service,Active Directory,Information Security,Network security,Active listening,Communication skills,Electrical wiring,Cybersecurity,Assembler,Incident Management,Problem management,Interpersonal skills,Linux,Risk management,Operating Systems,Time management,Change Management,Leadership,
+## 🛠️ Tech & Tools  
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
 
-
-
-## Tools
-
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-   
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-
-</div>
-
-### SIEM
-<div>
-  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-  
-</div>
-
-## Certifications
-
-<div>
-
-</div>
-
-## Projects
-
+💡 *"Stay strong, stay positive, and keep growing!"*  
