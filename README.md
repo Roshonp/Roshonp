@@ -1,7 +1,7 @@
 # 👋 Hey, I'm [Ro'shon Pittman]  
 
 ## 🚀 About Me  
-- 🔒 Aspiring Cybersecurity architect | Tech Enthusiast  
+- 🔒 Aspiring Cybersecurity analyst | Tech Enthusiast  
 - 💻 Working with **Splunk, Wireshark, Linux in Active Directory**  
 - 🏋️‍♂️ Passionate about fitness, wellness, and tech integration   
 - 🔗 Exploring **artificial intelligence** tech deleopment  
