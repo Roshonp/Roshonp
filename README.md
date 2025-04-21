@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Ro'shon Pittman]  
+# 👋 Hey, I'm Ro'shon Pittman  
 
 ## 🚀 About Me  
 - 🔒 Cybersecurity analyst | Tech Enthusiast  
