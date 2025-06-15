@@ -1,9 +1,9 @@
 # 👋 Hey, I'm Ro'shon Pittman  
 
 ## 🚀 About Me  
-- 🔒 Cybersecurity/IT specialist | Tech Enthusiast  
-- 💻 Working with Windows and Linux OS
-- 🏋️‍♂️ Passionate about technolagy Inovation  
+- 🔒 **Cybersecurity/IT specialist | Tech Enthusiast**  
+- 💻 **Working with Windows and Linux OS**
+- 🏋️‍♂️ **Passionate about technolagy Inovation**  
 - 🔗 Exploring **artificial intelligence** tech deleopment  
 
 ## 📚 Certifications & Studies  
@@ -11,7 +11,7 @@
 - 🛡️ **Google IT Support Professional Certificate**  
 - 🔐 **Google Cybersecurity Certificate**  
 - 🛡️ **CompTIA A+ (Studying)**  
-- 💾 Experience with PC building and Optimization
+- 💾 **Experience with PC building and Optimization**
 
 ## 🌱 What I'm Working On  
 - 🎥 Growing my **Team Leadership and collaboration skills**
