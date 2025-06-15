@@ -1,9 +1,9 @@
 # 👋 Hey, I'm Ro'shon Pittman  
 
 ## 🚀 About Me  
-- 🔒 Cybersecurity analyst | Tech Enthusiast  
-- 💻 Working with **Splunk, Wireshark, Linux in Active Directory**  
-- 🏋️‍♂️ Passionate about fitness, wellness, and tech integration   
+- 🔒 Cybersecurity/IT specialist | Tech Enthusiast  
+- 💻 Working with Windows and Linux OS
+- 🏋️‍♂️ Passionate about technolagy Inovation  
 - 🔗 Exploring **artificial intelligence** tech deleopment  
 
 ## 📚 Certifications & Studies  
@@ -11,24 +11,17 @@
 - 🛡️ **Google IT Support Professional Certificate**  
 - 🔐 **Google Cybersecurity Certificate**  
 - 🛡️ **CompTIA A+ (Studying)**  
-- 💾 Experience with **SHA-256, CIA triad, hashing, and security protocols**  
+- 💾 Experience with PC building and Optimization
 
 ## 🌱 What I'm Working On  
-- 🎥 Growing my **social enginneering and collaboration skills**
-- 📲 Developing **coding and programming skills**
-- 🔍 Exploring **penetration testing & ethical hacking**  
+- 🎥 Growing my **Team Leadership and collaboration skills**
+- 📲 Developing **Attenton to detail and analytical skills**
+- 🔍 Exploring **Networking and administration**
 
 ## 📫 Connect With Me  
-- 🔗  https://www.linkedin.com/in/ro-shon-pittman-273892296/
+- 🔗  www.linkedin.com/in/roshonp
 - 📩 Email: Roshon.pittman@gmail.com  
 
-## 🛠️ Tech & Tools  
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 
 
 
