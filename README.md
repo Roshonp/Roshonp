@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Ro'shon Pittman  
 
 ## 🚀 About Me  
-- 🔒 **Cybersecurity/IT specialist | Tech Enthusiast**  
+- 🔒 **Cybersecurity Analyst | Tech Enthusiast**  
 - 💻 **Working with Windows and Linux OS**
 - 🏋️‍♂️ **Passionate about technolagy Inovation**  
 - 🔗 Exploring **artificial intelligence** tech deleopment  
